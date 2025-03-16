@@ -19,6 +19,3 @@ This is a simple Python implementation of the classic Tic-Tac-Toe game, where yo
 3. Follow the on-screen instructions to enter your move by typing a number from 1 to 9.
 4. The game ends when someone wins or the board is full (tie).
 
-## Future Improvements:
-- Adding a graphical user interface (GUI) for a more user-friendly experience.
-- Implementing a difficulty level for the computer's moves.
